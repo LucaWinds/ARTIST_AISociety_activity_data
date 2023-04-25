@@ -1,7 +1,7 @@
 # ARTIST_AISociety_activity_data
 activity data for ARTIST(ARTificial Intellegence Science Team)
 
-# **Introduce**|
+# **Introduce**
 Hi, We are ARTIST, The only Artificial Intellegence Society in GSA(Gwangju Science Academy). <br>
 This repository is the data used as class materials for our club, and is written in Korean. <br>
 Hope this document helps! <br>
@@ -12,7 +12,7 @@ For typos, errors and corrections, please contact us here! <br>
 
 # **Feature**
 
-## **ex|** <br>
+## **ex** <br>
 * Learn basic knowledge about deep learning and machine learning in 5 sessions.
 
 **detail** <br>
@@ -36,10 +36,10 @@ For typos, errors and corrections, please contact us here! <br>
   * Natural Language Processing with konlpy
   * LSTM
 
-## **dataset|** <br>
+## **dataset** <br>
 * We have prepared datasets to help you learn. <br>
 
-## **Python basic|** <br>
+## **Python basic** <br>
 * Before starts learning AI, We have to learn python. <br>
 
 **detail** <br>
